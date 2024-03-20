@@ -9,7 +9,9 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/kotlin" isTestSource="false" generated="true" />
       <excludeFolder url="file://$MODULE_DIR$/src/kotlin/ex" />
-      <excludeFolder url="file://$MODULE_DIR$/src/kotlin/n10000_n15000" />
+      <excludeFolder url="file://$MODULE_DIR$/src/kotlin/n20001_25000/n23971" />
+      <excludeFolder url="file://$MODULE_DIR$/src/kotlin/n10000_n15000/n10989" />
+      <excludeFolder url="file://$MODULE_DIR$/src/kotlin/n1000_n5000/n1417" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
